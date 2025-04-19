@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-04-19T09:43:11.699073",
+    "symbol": "SOL/USD",
+    "action": "buy",
+    "orderSize": 1.0,
+    "status": "failed",
+    "error": "insufficient balance for USD (requested: 142.62, available: 0)"
+  },
+  {
+    "timestamp": "2025-04-19T09:43:11.699316",
+    "symbol": "SOL/USD",
+    "action": "buy",
+    "status": "failed",
+    "error": "insufficient balance for USD (requested: 142.62, available: 0)"
+  }
+]
