@@ -4,6 +4,10 @@ name: TradingView-Alpaca Bridge
     types:
       - trading-signal
   workflow_dispatch: null
+
+permissions:
+  contents: write
+  
 jobs:
   place-order:
     runs-on: ubuntu-latest
