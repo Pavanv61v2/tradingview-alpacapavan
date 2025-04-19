@@ -13,5 +13,13 @@
     "action": "buy",
     "status": "failed",
     "error": "insufficient balance for USD (requested: 142.62, available: 0)"
+  },
+  {
+    "timestamp": "2025-04-19T10:03:32.030266",
+    "symbol": "SOL/USD",
+    "action": "buy",
+    "orderSize": 1.0,
+    "orderId": "7c5c75aa-55f1-4981-9a01-c3f960933d27",
+    "status": "success"
   }
 ]
