@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2025-06-07T08:29:56.424241",
+    "symbol": "SOL/USD",
+    "action": "sell",
+    "orderSize": 1,
+    "orderId": "e04e8fce-ff18-43c4-8e44-987fdd233119",
+    "status": "success"
+  }
+]
