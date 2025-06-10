@@ -6,5 +6,13 @@
     "orderSize": 1,
     "orderId": "e04e8fce-ff18-43c4-8e44-987fdd233119",
     "status": "success"
+  },
+  {
+    "timestamp": "2025-06-10T20:01:23.341960",
+    "symbol": "DDOG",
+    "action": "sell",
+    "orderSize": 1.0,
+    "orderId": "6531573e-2819-40e9-be28-73cfe75c0dbe",
+    "status": "success"
   }
 ]
