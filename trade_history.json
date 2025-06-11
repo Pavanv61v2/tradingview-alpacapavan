@@ -14,5 +14,13 @@
     "orderSize": 1.0,
     "orderId": "6531573e-2819-40e9-be28-73cfe75c0dbe",
     "status": "success"
+  },
+  {
+    "timestamp": "2025-06-11T20:01:31.199407",
+    "symbol": "MSFT",
+    "action": "sell",
+    "orderSize": 1.0,
+    "orderId": "991d9905-970c-4b30-870e-dc87f28b2d1c",
+    "status": "success"
   }
 ]
