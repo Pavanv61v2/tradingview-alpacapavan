@@ -22,5 +22,13 @@
     "orderSize": 1.0,
     "orderId": "991d9905-970c-4b30-870e-dc87f28b2d1c",
     "status": "success"
+  },
+  {
+    "timestamp": "2025-06-12T20:01:21.101913",
+    "symbol": "OSS",
+    "action": "sell",
+    "orderSize": 24.0,
+    "orderId": "d89a8956-64bd-46f8-97cf-8b7238cb3c7c",
+    "status": "success"
   }
 ]
