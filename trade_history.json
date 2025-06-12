@@ -30,5 +30,20 @@
     "orderSize": 24.0,
     "orderId": "d89a8956-64bd-46f8-97cf-8b7238cb3c7c",
     "status": "success"
+  },
+  {
+    "timestamp": "2025-06-12T20:31:21.797260",
+    "symbol": "VIX",
+    "action": "buy",
+    "orderSize": 28.0,
+    "status": "failed",
+    "error": "asset \"VIX\" not found"
+  },
+  {
+    "timestamp": "2025-06-12T20:31:21.797623",
+    "symbol": "VIX",
+    "action": "buy",
+    "status": "failed",
+    "error": "asset \"VIX\" not found"
   }
 ]
