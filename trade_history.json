@@ -45,5 +45,13 @@
     "action": "buy",
     "status": "failed",
     "error": "asset \"VIX\" not found"
+  },
+  {
+    "timestamp": "2025-06-13T20:01:21.730287",
+    "symbol": "SOFI",
+    "action": "sell",
+    "orderSize": 5.0,
+    "orderId": "4c3ca89f-4223-4321-aa7c-c662ba3c6a24",
+    "status": "success"
   }
 ]
