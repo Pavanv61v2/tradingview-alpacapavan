@@ -61,5 +61,13 @@
     "orderSize": 1.0,
     "orderId": "f0652c51-c0a6-4775-ba90-e346804cb727",
     "status": "success"
+  },
+  {
+    "timestamp": "2025-06-20T20:01:31.258117",
+    "symbol": "TEM",
+    "action": "sell",
+    "orderSize": 2.0,
+    "orderId": "22fca97d-e034-4ef1-92b3-ac44f7e3a465",
+    "status": "success"
   }
 ]
