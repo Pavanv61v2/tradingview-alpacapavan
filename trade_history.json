@@ -77,5 +77,13 @@
     "orderSize": 4.0,
     "orderId": "55fd25ff-eba7-4cb5-8432-64299b03a2ed",
     "status": "success"
+  },
+  {
+    "timestamp": "2025-06-27T20:01:22.706649",
+    "symbol": "MU",
+    "action": "sell",
+    "orderSize": 1.0,
+    "orderId": "fe5b1478-814a-4f1d-87d0-5a1029d4140d",
+    "status": "success"
   }
 ]
