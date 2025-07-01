@@ -85,5 +85,13 @@
     "orderSize": 1.0,
     "orderId": "fe5b1478-814a-4f1d-87d0-5a1029d4140d",
     "status": "success"
+  },
+  {
+    "timestamp": "2025-07-01T20:01:26.831147",
+    "symbol": "META",
+    "action": "sell",
+    "orderSize": 1.0,
+    "orderId": "38942a2f-2ca8-4990-849b-30d0db08051a",
+    "status": "success"
   }
 ]
