@@ -93,5 +93,13 @@
     "orderSize": 1.0,
     "orderId": "38942a2f-2ca8-4990-849b-30d0db08051a",
     "status": "success"
+  },
+  {
+    "timestamp": "2025-07-08T20:01:20.630877",
+    "symbol": "SHOP",
+    "action": "sell",
+    "orderSize": 1.0,
+    "orderId": "54445aef-10ef-4f78-86f6-34e04bc77bb1",
+    "status": "success"
   }
 ]
