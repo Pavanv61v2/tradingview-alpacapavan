@@ -101,5 +101,13 @@
     "orderSize": 1.0,
     "orderId": "54445aef-10ef-4f78-86f6-34e04bc77bb1",
     "status": "success"
+  },
+  {
+    "timestamp": "2025-07-11T20:01:24.057566",
+    "symbol": "GME",
+    "action": "buy",
+    "orderSize": 22.0,
+    "orderId": "5dec4562-fe90-4d82-99aa-ed359ed10514",
+    "status": "success"
   }
 ]
