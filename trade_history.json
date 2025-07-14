@@ -109,5 +109,13 @@
     "orderSize": 22.0,
     "orderId": "5dec4562-fe90-4d82-99aa-ed359ed10514",
     "status": "success"
+  },
+  {
+    "timestamp": "2025-07-14T20:01:18.645789",
+    "symbol": "NVDA",
+    "action": "sell",
+    "orderSize": 1.0,
+    "orderId": "e10bc09f-d2c2-4279-babf-b89fcc859595",
+    "status": "success"
   }
 ]
