@@ -117,5 +117,13 @@
     "orderSize": 1.0,
     "orderId": "e10bc09f-d2c2-4279-babf-b89fcc859595",
     "status": "success"
+  },
+  {
+    "timestamp": "2025-07-15T20:01:22.842972",
+    "symbol": "NKE",
+    "action": "sell",
+    "orderSize": 1.0,
+    "orderId": "4750aea9-9df0-4fc0-ae37-59721e6c1c03",
+    "status": "success"
   }
 ]
