@@ -125,5 +125,13 @@
     "orderSize": 1.0,
     "orderId": "4750aea9-9df0-4fc0-ae37-59721e6c1c03",
     "status": "success"
+  },
+  {
+    "timestamp": "2025-07-16T20:01:23.966174",
+    "symbol": "HODL",
+    "action": "buy",
+    "orderSize": 236.0,
+    "orderId": "ca95a745-f44f-4594-a953-0bf68269062a",
+    "status": "success"
   }
 ]
