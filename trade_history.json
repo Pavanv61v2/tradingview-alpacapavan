@@ -133,5 +133,13 @@
     "orderSize": 236.0,
     "orderId": "ca95a745-f44f-4594-a953-0bf68269062a",
     "status": "success"
+  },
+  {
+    "timestamp": "2025-07-21T20:01:19.864510",
+    "symbol": "SOFI",
+    "action": "sell",
+    "orderSize": 4.0,
+    "orderId": "8c031039-0214-462b-88fc-27c61386fb83",
+    "status": "success"
   }
 ]
