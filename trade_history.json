@@ -149,5 +149,13 @@
     "orderSize": 22.0,
     "orderId": "12cca699-adac-48ba-928a-c1fdba0e4dd0",
     "status": "success"
+  },
+  {
+    "timestamp": "2025-07-24T20:01:24.734929",
+    "symbol": "RBRK",
+    "action": "buy",
+    "orderSize": 6.0,
+    "orderId": "d6d4c33d-7879-4bfc-9803-6964e1654700",
+    "status": "success"
   }
 ]
