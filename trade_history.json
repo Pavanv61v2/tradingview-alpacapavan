@@ -165,5 +165,13 @@
     "orderSize": 1.0,
     "orderId": "68883ca4-5c03-476d-90cb-754a1aedfc8c",
     "status": "success"
+  },
+  {
+    "timestamp": "2025-07-25T20:01:32.488512",
+    "symbol": "FLNC",
+    "action": "sell",
+    "orderSize": 13.0,
+    "orderId": "d311c825-a160-427f-a990-23a302424f1d",
+    "status": "success"
   }
 ]
