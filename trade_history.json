@@ -181,5 +181,13 @@
     "orderSize": 315.0,
     "orderId": "20d36be5-bcab-435c-a3c6-473f4f89a920",
     "status": "success"
+  },
+  {
+    "timestamp": "2025-07-29T20:01:26.488193",
+    "symbol": "ONON",
+    "action": "buy",
+    "orderSize": 10.0,
+    "orderId": "e952d35c-2c01-4ed4-9869-15c0bd8fb462",
+    "status": "success"
   }
 ]
