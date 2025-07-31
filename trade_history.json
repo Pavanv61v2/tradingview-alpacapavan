@@ -189,5 +189,13 @@
     "orderSize": 10.0,
     "orderId": "e952d35c-2c01-4ed4-9869-15c0bd8fb462",
     "status": "success"
+  },
+  {
+    "timestamp": "2025-07-31T20:01:26.998129",
+    "symbol": "TMDX",
+    "action": "buy",
+    "orderSize": 5.0,
+    "orderId": "837e1f8e-348b-4ed6-80cd-3fb6e86ba07b",
+    "status": "success"
   }
 ]
