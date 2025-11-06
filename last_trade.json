@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-11-06T14:14:45.457316",
+  "symbol": "ASST",
+  "action": "buy",
+  "qty": 3,
+  "notional": null,
+  "limitPrice": null,
+  "orderType": "market",
+  "allowShort": false,
+  "fractionalRequested": false,
+  "timeInForce": "day",
+  "status": "success",
+  "orderId": "92b96ad0-d57c-49ae-89f4-fd13f163154e"
+}
